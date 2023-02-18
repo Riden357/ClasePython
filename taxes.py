@@ -8,6 +8,8 @@ article2 = float(input("\t\t\t\t\t Saisir le prix de l'article 2 : "))
 article3 = float(input("\t\t\t\t\t Saisir le prix de l'article 3 : "))
 print("\n")
 
+print("Hola a Todos!!!")
+
 shipping = 30
 tps = 0.05
 tvq = 0.09975
